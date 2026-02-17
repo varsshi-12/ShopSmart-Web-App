@@ -130,3 +130,7 @@ npm start
 
 ## 📌 Conclusion
 ShopSmart demonstrates a complete full-stack application workflow—from designing the frontend to connecting and managing a backend with database support. It exemplifies best practices in responsive design, API integration, and scalable web development.
+
+---
+
+⭐ If you found this project useful, feel free to star the repository.
