@@ -12,13 +12,13 @@
 - Node.js  
 - MongoDB  
 - Database Design  
-- Angular  
+- React  
 
 ## 🌐 Project Overview
 **ShopSmart** is a modern, responsive digital grocery store web application that offers users a seamless shopping experience from browsing to checkout. Designed with a user-friendly interface and robust backend integration, ShopSmart brings grocery shopping into the digital age.
 
 ## 🚀 Features
-- Intuitive and responsive UI using **Bootstrap** and **Angular**
+- Intuitive and responsive UI using **Bootstrap** and **React**
 - Dynamic product listing with real-time filtering
 - Secure user authentication and session management
 - Cart management and order tracking
@@ -32,7 +32,7 @@
 - Provide administrators with tools to manage product data effectively
 
 ## 🧩 Tech Stack
-**Frontend:** HTML, CSS, JavaScript, Bootstrap, Angular  
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, React  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB  
 
@@ -41,7 +41,7 @@
 Below is the high-level technical architecture of the **ShopSmart** web application, showcasing the interaction between the frontend, backend, and database layers.
 
 ![Technical Architecture](![image](https://github.com/user-attachments/assets/f0cb2edd-a3ea-4ed7-92d4-6ac2a14c6308)
-The technical architecture illustrates the interaction between the frontend (Angular), backend (Node.js/Express), and the MongoDB database using RESTful APIs. It ensures smooth data flow and system scalability across the application layers.
+The technical architecture illustrates the interaction between the frontend (React), backend (Node.js/Express), and the MongoDB database using RESTful APIs. It ensures smooth data flow and system scalability across the application layers.
 
 ## 🗂️ ER Diagram (Entity-Relationship Diagram)
 
@@ -106,7 +106,7 @@ ShopSmart ├── Backend/ │ ├── db/ │ │ ├── connect.js │ 
   Quickly find products using real-time search and category-based filters.
 
 - ⚡ **Responsive UI**  
-  Seamless experience across desktops, tablets, and mobile devices using Bootstrap and Angular.
+  Seamless experience across desktops, tablets, and mobile devices using Bootstrap and React.
 
 - 💾 **MongoDB Database Integration**  
   Robust data storage and retrieval using MongoDB with Mongoose for schema modeling.
